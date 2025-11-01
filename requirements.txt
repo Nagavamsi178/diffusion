@@ -1,5 +1,7 @@
 streamlit
+diffusers
 transformers
 torch
-diffusers
 huggingface-hub
+Pillow
+python-dotenv

@@ -3,6 +3,9 @@ import os
 import io
 import json
 import hashlib
+from diffusers import StableDiffusionPipeline
+import torch
+
 from PIL import Image
 
 # ========== USER DATABASE ==========
