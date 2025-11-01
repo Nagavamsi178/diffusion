@@ -1,0 +1,33 @@
+---
+
+title: Diffusion App
+
+emoji: 🌀
+
+colorFrom: blue
+
+colorTo: indigo
+
+sdk: docker
+
+pinned: false
+
+---
+ 
+# Diffusion Streamlit App
+ 
+This Space runs a **Streamlit diffusion app** using Docker.  
+
+Files included:
+
+- `Dockerfile`
+
+- `app.py`
+
+- `requirements.txt`
+
+- `users.json`
+ 
+Make sure your Dockerfile runs Streamlit correctly.
+
+ 
